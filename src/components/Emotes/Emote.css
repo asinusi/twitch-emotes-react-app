@@ -1,0 +1,11 @@
+.emote-item {
+    border: 3px solid #FFF;
+    max-width: 100px;
+    margin: 0 auto;
+    cursor: pointer;
+    padding: 5px;
+}
+.emote-item:hover {
+    border: 3px solid rebeccapurple;
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 12px;
+}
