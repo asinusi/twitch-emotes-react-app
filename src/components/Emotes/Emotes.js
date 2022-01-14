@@ -105,7 +105,6 @@ export class Emotes extends Component {
     } else {
       this.getEmotes({ channel: this.props.channel })
         .then((data) => {
-          console.log(data);
           this.handleEmotes(data);
         })
         .catch((e) => {
