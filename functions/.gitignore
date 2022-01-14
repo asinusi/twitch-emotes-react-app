@@ -1,0 +1,5 @@
+node_modules/
+
+# testing
+ui-debug.log
+.runtimeconfig.json
